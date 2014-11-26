@@ -1,0 +1,45 @@
+body{
+    background-color:#66AEE2;
+}
+.titulo{
+    padding: 15px;
+    text-align:center;
+    height:200;
+    font-size:30;
+    font-family:Verdana;
+    background-color:white;
+    }
+.titulo h1{
+    color:#4590C7;
+}
+
+.boton div{
+    
+    border-radius: 10px;
+    border: 2px solid #6495ED;
+    background-color: #BCD2EE;
+    height: 100px;
+    width: 180px;
+    margin: auto;
+    text-align: center;
+        
+    }
+.boton div:hover{
+        border: 6px solid #6495ED;
+        background-color: #4590C7;
+        text-align:center;
+    }
+div a {
+    text-decoration: none;
+    color: white;
+    font-family: Verdana, sans-serif;
+    color:white;
+    font-weight:bold;
+    font-size:22px;
+}
+
+
+.imagenes{
+    background-color: white;
+    }
+
